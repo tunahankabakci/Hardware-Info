@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\Hardware Info.exe.config
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\Hardware Info.exe
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\Hardware Info.pdb
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\System.Buffers.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\System.Memory.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\Vanara.Core.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\Vanara.PInvoke.Kernel32.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\Vanara.PInvoke.Shared.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\bin\Debug\net472\fr\Vanara.Core.resources.dll
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\HardwareInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\hardware_info.Form1.resources
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\HardwareInfo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\HardwareInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\HardwareInfo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\HardwareInfo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\HardwareInfo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\HardwareInfo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\Hardware Info.exe
+C:\Users\Administrator\Desktop\yedek\HardwareIdentifiers\obj\Debug\net472\Hardware Info.pdb
